@@ -11,10 +11,17 @@ function App() {
     <Router>
       <LoveConfetti />
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/password" element={<Password />} />
+
+        {/* Halaman pertama = Password Page */}
+        <Route path="/" element={<Password />} />
+
+        {/* Halaman Home kamu pindah ke /home */}
+        <Route path="/home" element={<Home />} />
+
         <Route path="/video" element={<Video />} />
         <Route path="/gallery" element={<Gallery />} />
+
+        {/* Redirect semua yg gak dikenal */}
         <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>
     </Router>
