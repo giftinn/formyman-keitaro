@@ -12,7 +12,7 @@ export const Home: React.FC = () => {
         <div className="flex items-center gap-3">
           <ChevronLeft size={24} />
           <div className="w-10 h-10 rounded-full bg-gray-300 overflow-hidden border-2 border-white/20">
-            <img src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=200&auto=format&fit=crop" alt="Profile" className="w-full h-full object-cover" />
+            <img src="https://files.catbox.moe/x96wyv.jpg" alt="Profile" className="w-full h-full object-cover" />
           </div>
           <div>
             <h1 className="font-semibold text-base leading-tight">My Love ❤️</h1>
