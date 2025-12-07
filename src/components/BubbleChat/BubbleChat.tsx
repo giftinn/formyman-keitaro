@@ -11,12 +11,12 @@ interface Message {
 }
 
 const messages: Message[] = [
-  { id: 1, text: "Hey you! ❤️", sender: 'partner', time: '10:00 AM' },
+  { id: 1, text: "Hai sayangg", sender: 'partner', time: '10:00 AM' },
   { id: 2, text: "Just wanted to say...", sender: 'partner', time: '10:01 AM' },
   { id: 3, text: "I'm so lucky to have you.", sender: 'partner', time: '10:02 AM' },
   { id: 4, text: "You make every day better.", sender: 'partner', time: '10:03 AM' },
   { id: 5, text: "Can't wait to see you later! 😘", sender: 'partner', time: '10:05 AM' },
-  { id: 6, text: "Love you so much!", sender: 'partner', time: '10:06 AM' },
+  { id: 6, text: "Love you so much! And happy anniversary for us", sender: 'partner', time: '10:06 AM' },
 ];
 
 export const BubbleChat: React.FC = () => {
@@ -24,7 +24,7 @@ export const BubbleChat: React.FC = () => {
     <div className="flex flex-col space-y-2 p-4 w-full pb-20 bg-[#efe7dd] min-h-[60vh] rounded-lg shadow-inner relative overflow-hidden">
       {/* WhatsApp Doodle Background Pattern (CSS simulated) */}
       <div className="absolute inset-0 opacity-[0.06] pointer-events-none" 
-           style={{ backgroundImage: 'url("https://user-images.githubusercontent.com/15075759/28719144-86dc0f70-73b1-11e7-911d-60d70fcded21.png")', backgroundSize: '400px' }}>
+           style={{ backgroundImage: 'url("https://files.catbox.moe/x96wyv.jpg")', backgroundSize: '400px' }}>
       </div>
 
       {messages.map((msg, index) => (
