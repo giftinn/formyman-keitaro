@@ -14,29 +14,19 @@ import './gallery.css';
 
 const photos = [
   {
-    id: 1,
-    image: "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?q=80&w=1000&auto=format&fit=crop",
-    text: "The day we met..."
-  },
-  {
     id: 2,
-    image: "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?q=80&w=1000&auto=format&fit=crop",
-    text: "Our first adventure"
+    image: "https://files.catbox.moe/dl6l3b.jpg",
+    text: "how cuteee"
   },
   {
     id: 3,
-    image: "https://images.unsplash.com/photo-1474552226712-ac0f0961a954?q=80&w=1000&auto=format&fit=crop",
+    image: "https://files.catbox.moe/xp332b.jpg",
     text: "Always smiling with you"
   },
   {
     id: 4,
-    image: "https://images.unsplash.com/photo-1518199266791-5375a83190b7?q=80&w=1000&auto=format&fit=crop",
-    text: "My favorite person"
-  },
-  {
-    id: 5,
-    image: "https://images.unsplash.com/photo-1621112904887-419379ce6824?q=80&w=1000&auto=format&fit=crop",
-    text: "Here's to forever ❤️"
+    image: "https://files.catbox.moe/nc9y8p.jpg",
+    text: "You are my fav person"
   }
 ];
 
