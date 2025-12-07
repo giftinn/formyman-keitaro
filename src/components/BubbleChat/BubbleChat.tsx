@@ -16,7 +16,7 @@ const messages: Message[] = [
   { id: 3, text: "I'm so lucky to have you.", sender: 'partner', time: '10:02 AM' },
   { id: 4, text: "You make every day better.", sender: 'partner', time: '10:03 AM' },
   { id: 5, text: "Can't wait to see you later! 😘", sender: 'partner', time: '10:05 AM' },
-  { id: 6, text: "Love you so much! And happy anniversary for us", sender: 'partner', time: '10:06 AM' },
+  { id: 6, text: "Love you so much! And happy mensiversary for us", sender: 'partner', time: '10:06 AM' },
 ];
 
 export const BubbleChat: React.FC = () => {
