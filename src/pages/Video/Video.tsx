@@ -75,12 +75,11 @@ export const Video: React.FC = () => {
                   My Dearest,
                 </p>
                 <p className="text-stone-600 leading-relaxed">
-                  I wanted to share this special video with you. It reminds me of how happy you make me feel every single day.
-                  Every moment with you is a treasure I hold close to my heart.
+                  happy aniv 1 bulan untuk pacar aku yang sangat gantengg di dunia inii, pacar aku yang baikk, pacar aku yang pintarrr, yang selalu juara 1 di hati aishanayaaa, 
+                  terima kasih untuk 1 bulan ini karena selalu kasih terbaik buat akuu, imm so grateful that my boylfriend is youu ❤️❤️❤️ pria yang hebat bangett, selalu jadi pendengar akuu, support sistem akuu. 
                 </p>
                 <p className="text-stone-600 leading-relaxed">
-                  You are the sunshine that lights up my world and the calm in every storm. I promise to love you more with each passing day.
-                  No matter where life takes us, my heart will always find its way back to you.
+                  thank you for giving the best for both of us 🥹❤️ ayoo sama sama jalanin lagi hari hari baik berikutnya bersamaa, dan saling memberikan dukungan satu sama lainnn.
                 </p>
                 <p className="text-stone-600 leading-relaxed">
                   Thank you for being you, and for being mine.
