@@ -34,7 +34,7 @@ export const Video: React.FC = () => {
             controls
             poster="https://images.unsplash.com/photo-1518621736915-f3b1c41bfd00?q=80&w=1000&auto=format&fit=crop"
           >
-            <source src="https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4" type="video/mp4" />
+            <source src="https://files.catbox.moe/ffmkym.mp4" type="video/mp4" />
             Your browser does not support the video tag.
           </video>
         </div>
