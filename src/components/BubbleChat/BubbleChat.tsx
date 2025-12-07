@@ -24,7 +24,7 @@ export const BubbleChat: React.FC = () => {
     <div className="flex flex-col space-y-2 p-4 w-full pb-20 bg-[#efe7dd] min-h-[60vh] rounded-lg shadow-inner relative overflow-hidden">
       {/* WhatsApp Doodle Background Pattern (CSS simulated) */}
       <div className="absolute inset-0 opacity-[0.06] pointer-events-none" 
-           style={{ backgroundImage: 'url("https://files.catbox.moe/x96wyv.jpg")', backgroundSize: '400px' }}>
+           style={{ backgroundImage: 'url("")', backgroundSize: '400px' }}>
       </div>
 
       {messages.map((msg, index) => (
